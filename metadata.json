@@ -1,0 +1,6 @@
+{
+  "name": "Payroll_Vertex",
+  "description": "ระบบเรียกดูและคำนวณข้อมูลเงินเดือนพนักงานจาก Google Sheet แบบละเอียด สวยงาม และอ่านง่ายในโทนสีส้ม",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
